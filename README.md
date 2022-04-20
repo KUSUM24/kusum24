@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on web devlopment and competitive coding.
+- 🌱 I’m currently learning python shortcuts and OOP.
+- 👯 I’m looking to collaborate on Frontend development and open source projects.
+- 🤔 I’m looking for help with java and sql.
+- [Link to Google](https://www.google.com)
+
 <!--
 **KUSUM24/kusum24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
