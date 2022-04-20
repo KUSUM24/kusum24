@@ -12,13 +12,13 @@
 
 <h2 align="center"><b> ⚡ GitHub Stats: </b></h2>
 
-
-<div align="center">
   [![Kusum's GitHub
 stats](https://github-readme-stats-sable-zeta.vercel.app/api?username=kusum24&theme=dark)](https://github.com/jai38/github-readme-stats)
 <br/>
 [![GitHub
 Streak](https://github-readme-streak-stats.herokuapp.com?user=kusum24&theme=dark)](https://git.io/streak-stats)
+
+<div align="center">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs?username=kusum24&show_icons=true&locale=en&layout=compact&theme=dark&&exclude_repo=SmilePay"
     alt="kusum24"
