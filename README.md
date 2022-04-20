@@ -5,10 +5,32 @@
 - 🌱 I’m currently learning python shortcuts and OOP.
 - 👯 I’m looking to collaborate on Frontend development and open source projects.
 
-- ⚡I love developing the landing pages with formal impression, ease of use experience and amazing interface.
-- 📫 How to reach me: 
+- ⚡ I love developing the landing pages with formal impression, ease of use experience and amazing interface.
+<!-- - 📫 How to reach me: 
       1) [LinkedIn](https://www.linkedin.com/in/kusum-rohra/)
-      2) [Github](https://github.com/KUSUM24)
+      2) [Github](https://github.com/KUSUM24) -->
+- ⚡ Fun fact: I love to dance gracefully the moment I hear the song.
+
+<div align="center">
+  <h2 align="center"><b>You can connect with me over:</b></h2>
+
+  [<img
+    align="center"
+    height="48"
+    width="48"
+    target="blank"
+    src="https://img.icons8.com/fluent/2x/linkedin.png"
+    style="color: #0a66c2"
+  />](https://www.linkedin.com/in/kusum-rohra/) [<img
+    align="center"
+    height="48"
+    width="48"
+    target="blank"
+    src="https://img.icons8.com/bubbles/2x/github.png"
+    style="color: #181717"
+  />](https://github.com/KUSUM24/)
+  <br />
+</div>
 
 <h2 align="center"><b> ⚡ GitHub Stats: </b></h2>
 
@@ -318,4 +340,4 @@ Streak](https://github-readme-streak-stats.herokuapp.com?user=jai38&theme=dark)]
 
 [![Jai's GitHub stats](https://github-readme-stats.vercel.app/api?username=jai38&theme=dark&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
--->
+
