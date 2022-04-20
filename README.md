@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on Frontend development and open source projects.
 - 😄 I’m best at designing the appealing UI along with animations for the websites.
 - ⚡I love developing the landing pages with formal impression, ease of use experience and amazing interface.
-- [Link to Google](https://www.google.com)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kusum-rohra/) [Github](https://github.com/KUSUM24)
 
 <h2 align="center"><b> ⚡ GitHub Stats: </b></h2>
 
