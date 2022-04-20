@@ -18,12 +18,12 @@ stats](https://github-readme-stats-sable-zeta.vercel.app/api?username=kusum24&th
 [![GitHub
 Streak](https://github-readme-streak-stats.herokuapp.com?user=kusum24&theme=dark)](https://git.io/streak-stats)
 
-<div align="center">
+<!-- <div align="center"> -->
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs?username=kusum24&show_icons=true&locale=en&layout=compact&theme=dark&&exclude_repo=SmilePay"
     alt="kusum24"
   />
-</div>
+<!-- </div> -->
 
 <!--
 **KUSUM24/kusum24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
